@@ -15,6 +15,7 @@
     "theme"
   ],
   "author": "Dale-Anthony",
+  "notes": "This project is based on the design by Dale Williams ('https://github.com/daleanthony/Uno').  It has been revised somewhat by Daron Wilson"
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/unnamedcrewman/Uno/issues"
