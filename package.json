@@ -1,0 +1,29 @@
+{
+  "name": "uno",
+  "version": "0.0.0",
+  "description": "theme for ghost",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unnamedcrewman/Uno.git"
+  },
+  "keywords": [
+    "ghost",
+    "theme"
+  ],
+  "author": "Dale-Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unnamedcrewman/Uno/issues"
+  },
+  "homepage": "https://github.com/unnamedcrewman/Uno",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-notify": "^1.2.4",
+    "gulp-sass": "^0.7.1"
+  }
+}
