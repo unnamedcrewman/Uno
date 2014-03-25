@@ -1277,10 +1277,22 @@ hr {
   background-image: linear-gradient(140deg,rgba(118, 29, 18, 0.6) 20%, rgba(30, 7, 4, 0.8)); }
 
 .cover-slate {
-  background-color: rgba(61, 66, 96, 0.6);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(61, 66, 96, 0.6)), color-stop(100%, rgba(21, 23, 33, 0.8)));
-  background-image: -webkit-linear-gradient(-410deg, rgba(61, 66, 96, 0.6) 20%, rgba(21, 23, 33, 0.8));
-  background-image: linear-gradient(140deg,rgba(61, 66, 96, 0.6) 20%, rgba(21, 23, 33, 0.8)); }
+  background-color: rgba(61, 82, 96, 0.6);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(61, 82, 96, 0.6)), color-stop(100%, rgba(21, 23, 33, 0.8)));
+  background-image: -webkit-linear-gradient(-410deg, rgba(61, 82, 96, 0.6) 20%, rgba(21, 23, 33, 0.8));
+  background-image: linear-gradient(140deg,rgba(61, 82, 96, 0.6) 20%, rgba(21, 23, 33, 0.8)); }
+
+.cover-wwb {
+  background-color: rgba(61, 82, 96, 0.6);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(61, 82, 96, 0.6)), color-stop(100%, rgba(21, 28, 33, 0.3)));
+  background-image: -webkit-linear-gradient(-410deg, rgba(61, 82, 96, 0.6) 20%, rgba(21, 28, 33, 0.3));
+  background-image: linear-gradient(140deg,rgba(61, 82, 96, 0.6) 20%, rgba(21, 28, 33, 0.3)); }
+
+.cover-test {
+  background-color: rgba(61, 82, 96, 0.6);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(20%, rgba(61, 82, 96, 0.6)), color-stop(100%, rgba(21, 28, 33, 0.3)));
+  background-image: -webkit-linear-gradient(-410deg, rgba(61, 82, 96, 0.6) 20%, rgba(21, 28, 33, 0.3));
+  background-image: linear-gradient(140deg,rgba(61, 82, 96, 0.6) 20%, rgba(21, 28, 33, 0.3)); }
 
 .cover-disabled {
   background: none; }
@@ -1572,4 +1584,4 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
     display: block;
     margin-bottom: 0.4em; } }
 
-@import url('animate.css');
+@import url('./animate.css');
