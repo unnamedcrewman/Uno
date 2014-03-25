@@ -22,7 +22,7 @@ nav {
       @extend .btn;
       border-color: #FFF;
       color: #FFF;
-      opacity: .8;
+      opacity: .4;
 
       &:hover {
         color: #FFF;
@@ -35,10 +35,11 @@ nav {
   }
 
   .navigation--social {
-    margin-left: 1.5em;
+    // margin-left: 1.5em;
 
     a {
-      padding: 6px 8px 6px 9px;
+      padding: 6px 4px 6px 5px;
+      // padding: 6px 8px 6px 9px;
 
       .label {
         display: none;
@@ -46,7 +47,7 @@ nav {
 
       .icon {
         display: block;
-        font-size: 1.7em;
+        font-size: 1.3em;
       }
 
     }
