@@ -506,13 +506,15 @@ nav {
       border-color: #FFF;
       opacity: 1; }
 
-.navigation--social a {
-  padding: 6px 4px 6px 5px; }
-  .navigation--social a .label {
-    display: none; }
-  .navigation--social a .icon {
-    display: block;
-    font-size: 1.3em; }
+.navigation--social {
+  margin-left: 0em; }
+  .navigation--social a {
+    padding: 6px 4px 6px 5px; }
+    .navigation--social a .label {
+      display: none; }
+    .navigation--social a .icon {
+      display: block;
+      font-size: 1.3em; }
 
 .pagination {
   display: block;
@@ -603,9 +605,11 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
 
 @media all and (min-width: 1300px) {
   .content-wrapper {
-    margin-left: 530px; } }
+    margin-left: 530px; }
+  .navigation--social {
+    margin-top: 5px; } }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 1100px) {
   .panel-cover__logo {
     width: 70px; }
   .panel-title {
@@ -619,7 +623,10 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
     margin-top: 5px;
     margin-left: 0; } }
 
-@media all and (max-width: 640px) {
+@media all and (max-width: 700px) {
+  .navigation--social {
+    margin-top: 5px;
+    margin-left: 0em; }
   .btn-mobile-menu {
     display: block; }
   .panel-main {

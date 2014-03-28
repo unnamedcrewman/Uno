@@ -29,6 +29,13 @@
     {{! Styles and Scripts }}
     <link rel="stylesheet" type="text/css" href="{{asset "css/uno.css"}}" />
 
+    {{!-- respond.js for media queries --}}
+    <!--[if lt IE 9]
+        <script type="text/javascript" src="{{asset "js/modernizr.min.js"}}"></script>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script type="text/javascript" src="{{asset "js/respond.min.js"}}"></script>
+    <![endif]-->
+    
     {{! Ghost Magic }}
     {{ghost_head}}
 
