@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8caed3f7-9608-478f-9bd2-fef724b8a654" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default.hbs" afterPath="$PROJECT_DIR$/default.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/social.hbs" afterPath="$PROJECT_DIR$/partials/social.hbs" />
     </list>
     <ignored path="uno.iws" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="default.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/default.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="8.807693" vertical-offset="289" max-vertical-offset="1777">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state vertical-scroll-proportion="-3.75" vertical-offset="345" max-vertical-offset="1662">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -69,8 +70,8 @@
       <file leaf-file-name="social.hbs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partials/social.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38812786" vertical-offset="525" max-vertical-offset="1782">
-              <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.6392694" vertical-offset="495" max-vertical-offset="1797">
+              <caret line="60" column="204" selection-start-line="60" selection-start-column="204" selection-end-line="60" selection-end-column="204" />
               <folding />
             </state>
           </provider>
@@ -89,6 +90,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/default.hbs" />
         <option value="$PROJECT_DIR$/partials/social.hbs" />
       </list>
     </option>
@@ -207,6 +209,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8caed3f7-9608-478f-9bd2-fef724b8a654" name="Default" comment="" />
@@ -264,14 +269,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/default.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.807693" vertical-offset="289" max-vertical-offset="1777">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="987">
@@ -298,10 +295,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="345" max-vertical-offset="1662">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partials/social.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38812786" vertical-offset="525" max-vertical-offset="1782">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.6392694" vertical-offset="495" max-vertical-offset="1797">
+          <caret line="60" column="204" selection-start-line="60" selection-start-column="204" selection-end-line="60" selection-end-column="204" />
           <folding />
         </state>
       </provider>
